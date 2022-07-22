@@ -1,7 +1,7 @@
-import UIKit
-
+// Simple declaration (with typing)
 var str: String = "Hello, Swift!"
 
+// Implicit typing
 var first_name = "Kolis"
 var last_name = "Ford"
 
